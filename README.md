@@ -2,5 +2,5 @@
 
 ```
 yarn global add http-server
-hs . -c-1
+http-server . -c-1
 ```
